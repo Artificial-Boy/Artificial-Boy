@@ -1,4 +1,5 @@
 #### Hi there, I'm ARTIFICIAL BOY!                       
 
-|<img align="right" alt="PIC" src="https://github.com/Artificial-Boy/Artificial-Boy/blob/main/images/Artificial-boy.jpg?raw=true" width="600" height="230" />
-|---
+<p align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=Artificial-Boy&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>
